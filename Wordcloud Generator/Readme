@@ -1,0 +1,21 @@
+# News Analysis 
+
+News Analysis is a Wordcloud Generator which you can use to get the latest Information about a specific Stock (or whatever you´re interested in)
+
+The Basic Version (News Analysis.py) has a hardcoded Search String (currently "WTI Price") just change this to whatever you like
+
+The second Version (News Analysis V2.py) comes with a basic GUI where you can enter Search Strings
+
+Both Version generate a Wordcloud from Headlines found on the first Page of Google for a particular Search String
+
+Upcomming Versions should be able to identify if a word is positive or negative and color the Cloud accordingly. 
+
+You are welcome to play around with this Project (there are a lot of Options for the Wordcloud, like showing it in a specific shape). 
+
+Libraries used: 
+- GoogleNews (https://pypi.org/project/GoogleNews/) 
+- wordcloud  (https://pypi.org/project/wordcloud/)
+- matplotlib (https://pypi.org/project/matplotlib/)
+- tkinter (Python Standard Library)
+
+
