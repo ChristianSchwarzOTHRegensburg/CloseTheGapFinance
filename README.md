@@ -8,6 +8,7 @@ Planned topics are among others:
 - Implement your own Magic Formula (based on Joel Greenblatt's Magic Formula: get Stock Information and rank them to identify best investment opportunities) 
 - Simple Trading Bot (buy and sell Stocks based on certain signals/events)
 - Stock Screener with Email Alerts (Get notified when the rocket is about to start)
+- Sentiment Analysis of Tweets (check if people talk positive or negative about a certain Company)
 - Further projects can be added, the final e-book should contain about 10 projects
 
 Suggestions for further projects are welcome, these should be realizable in about 100-200 lines of code. Each project starts with a basic version that contains the absolute minimum functionality to show the feasibility of the solution. In 3 -4 further steps the basic solution is then improved and additional functionality is added.
