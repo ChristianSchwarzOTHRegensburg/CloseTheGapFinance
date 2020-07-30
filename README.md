@@ -6,7 +6,7 @@ Planned topics are among others:
 - Wordcloud Generator for Stock Information (Generate Wordclouds from Newspaper Headlines to get an Overview what is moving a particular stock)
 - Stock comparison (plot two or more stocks in one graph to see which one is performing better)
 - Implement your own Magic Formula (based on Joel Greenblatt's Magic Formula: get Stock Information and rank them to identify best investment opportunities) 
-- Simple Trading Bot
+- Simple Trading Bot (buy and sell Stocks based on certain signals/events)
 - Stock Screener with Email Alerts (Get notified when the rocket is about to start)
 - Further projects can be added, the final e-book should contain about 10 projects
 
